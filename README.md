@@ -39,9 +39,9 @@ This project documents a home network to demonstrate networking knowledge releva
 
 ## Repository Structure
 - [devices.md](devices.md) — network hardware overview
-- [ip-addressing.md](ip-addressing.md) DHCP and IP configuration
+- [ip-addressing.md](ip-addressing.md) — DHCP and IP configuration
 - [connectivity-tests.md](connectivity-tests.md) — gateway and internet testing
 - [dns-testing.md](dns-testing.md) — name resolution verification
-- [router-access.md](router-access.md) — ISP-managed router limitations
+- [router-access.md](router-access.md) — ISP managed router limitations
 - [common-network-issues](common-network-issues.md) — step-by-step troubleshooting commands
 
