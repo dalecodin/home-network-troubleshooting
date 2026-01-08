@@ -38,10 +38,10 @@ This project documents a home network to demonstrate networking knowledge releva
 - diagrams.net
 
 ## Repository Structure
-- devices.md — network hardware overview
-- ip-addressing.md — DHCP and IP configuration
-- connectivity-tests.md — gateway and internet testing
-- dns-testing.md — name resolution verification
-- router-access.md — ISP-managed router limitations
-- common-network-issues.md — step-by-step troubleshooting commands
+- [devices.md](devices.md) — network hardware overview
+- [ip-addressing.md](ip-addressing.md) DHCP and IP configuration
+- [connectivity-tests.md](connectivity-tests.md) — gateway and internet testing
+- [dns-testing.md](dns-testing.md) — name resolution verification
+- [router-access.md](router-access.md) — ISP-managed router limitations
+- [common-network-issues](common-network-issues.md) — step-by-step troubleshooting commands
 
