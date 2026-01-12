@@ -1,3 +1,5 @@
+## Local Network Environment
+
 - Internet Provider : Optimum
 - Modem/Router: ISP-provided cable gateway (modem + router + Wi-Fi)
 - Connection Type: Wi-Fi
